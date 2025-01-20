@@ -1,3 +1,77 @@
 # arcade-Batocera_CRT2025
 ES-Theme for Batocera, designed and written for use on arcade crt monitors 15 Khz
 after a few years, i changed system. i recently started using batocera from pc on a crt arcade cabinet. so i decided to create a new version of my theme. revised and corrected the code. improved and with various new features and improvements.
+here is the list of systems already supported. If you have any requests ask. Thanks.
+Here you can find the systems already supported and integrated for use with emulationstation:
+- 3ds
+- 3do
+- Amiga
+- Amiga CD 32
+- Amstradcpc
+- Apple2
+- Atari 8bit
+- Atari 2600
+- Atari 5200
+- Atari 7800
+- Atari jaguar
+- Atari Lynx
+- Atomiswave
+- auto-allgames
+- auto-favorites
+- auto-lastplayed
+- auto-verticalarcade
+- c64
+- c20
+- colecovision
+- custom-collections
+- daphne
+- dreamcast
+- fds
+- gameandwatch
+- gamegear
+- gb
+- gba
+- gbc
+- gc
+- gx4000
+- intellivision
+- kingofair (custom collection)
+- lutro
+- mame
+- mastersystem
+- megadrive
+- msx
+- n64
+- naomi
+- nds
+- neogeo
+- nes
+- openbor
+- pcengine
+- pcenginecd
+- pcfx
+- ports
+- pref_c64 (custom collection)
+- pref_console (custom collection)
+- psp
+- psx
+- ps2
+- ps3
+- saturn
+- scummvm
+- sega32
+- segacd
+- sg-1000
+- snes
+- solarus
+- sufami
+- supergrafx
+- supermodel
+- tic80
+- vectrex
+- virtualboy
+- windows
+- wonderswan
+- wonderswancolor
+- x68000
+- zxspectrum
