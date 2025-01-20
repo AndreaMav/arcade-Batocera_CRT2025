@@ -1,7 +1,7 @@
 # es-arcade-batocera_CRT2025
-ES-Theme for Batocera, designed and written for use on arcade crt monitors 15 Khz
-after a few years, i changed system. i recently started using batocera from pc on a crt arcade cabinet. so i decided to create a new version of my theme. revised and corrected the code. improved and with various new features and improvements.
-here is the list of systems already supported. If you have any requests ask. Thanks.
+ES-Theme for Batocera, designed and written for use on arcade CRT monitors 15 Khz.
+After a few years, I changed system. I recently started using batocera from pc on a crt arcade cabinet. So i decided to create a new version of my theme. Revised and corrected the code. Improved and with various new features and improvements.
+Here is the list of systems already supported. If you have any requests ask. Thanks.
 Here you can find the systems already supported and integrated for use with emulationstation:
 - 3ds
 - 3do
