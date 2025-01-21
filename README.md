@@ -27,6 +27,7 @@ Here you can find the systems already supported and integrated for use with emul
 - daphne
 - dreamcast
 - fds
+- fpinball
 - gameandwatch
 - gamegear
 - gb
@@ -35,11 +36,16 @@ Here you can find the systems already supported and integrated for use with emul
 - gc
 - gx4000
 - intellivision
+- jaguar
+- lindbergh
+- love
+- lutro
 - kingofair (custom collection)
 - lutro
 - mame
 - mastersystem
 - megadrive
+- mplayer
 - msx
 - n64
 - naomi
@@ -47,9 +53,11 @@ Here you can find the systems already supported and integrated for use with emul
 - neogeo
 - nes
 - openbor
+- o2em
 - pcengine
 - pcenginecd
 - pcfx
+- pico
 - ports
 - pref_c64 (custom collection)
 - pref_console (custom collection)
@@ -57,6 +65,7 @@ Here you can find the systems already supported and integrated for use with emul
 - psx
 - ps2
 - ps3
+- pygame
 - saturn
 - scummvm
 - sega32
@@ -67,11 +76,15 @@ Here you can find the systems already supported and integrated for use with emul
 - sufami
 - supergrafx
 - supermodel
+- steam
 - tic80
 - vectrex
+- videopac
 - virtualboy
+- vpinball
 - windows
 - wonderswan
 - wonderswancolor
 - x68000
+- xbox
 - zxspectrum
