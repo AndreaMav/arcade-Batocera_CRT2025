@@ -54,7 +54,7 @@ Here you can find the systems already supported and integrated for use with emul
 - neogeo
 - nes
 - openbor
-- o2em
+- odissey2
 - pcengine
 - pcenginecd
 - pcfx
@@ -77,6 +77,7 @@ Here you can find the systems already supported and integrated for use with emul
 - sufami
 - supergrafx
 - supermodel
+- switch
 - steam
 - tic80
 - vectrex
