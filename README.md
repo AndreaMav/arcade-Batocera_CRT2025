@@ -35,6 +35,7 @@ Here you can find the systems already supported and integrated for use with emul
 - gbc
 - gc
 - gx4000
+- fpinball
 - intellivision
 - jaguar
 - lindbergh
@@ -85,6 +86,7 @@ Here you can find the systems already supported and integrated for use with emul
 - windows
 - wonderswan
 - wonderswancolor
+- wiuu
 - x68000
 - xbox
 - zxspectrum
