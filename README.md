@@ -83,6 +83,7 @@ Here you can find the systems already supported and integrated for use with emul
 - switch
 - steam
 - tic80
+- triforce
 - vectrex
 - videopac
 - virtualboy
