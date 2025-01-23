@@ -46,6 +46,8 @@ Here you can find the systems already supported and integrated for use with emul
 - mame
 - mastersystem
 - megadrive
+- model 2
+- model 3
 - mplayer
 - msx
 - n64
@@ -71,6 +73,7 @@ Here you can find the systems already supported and integrated for use with emul
 - scummvm
 - sega32
 - segacd
+- singe
 - sg-1000
 - snes
 - solarus
