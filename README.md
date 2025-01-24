@@ -13,6 +13,7 @@ Here you can find the systems already supported and integrated for use with emul
 - Atari 2600
 - Atari 5200
 - Atari 7800
+- Ataru 8bit
 - Atari jaguar
 - Atari Lynx
 - Atomiswave
@@ -26,6 +27,7 @@ Here you can find the systems already supported and integrated for use with emul
 - custom-collections
 - daphne
 - dreamcast
+- fbneo
 - fds
 - fpinball
 - gameandwatch
@@ -43,13 +45,15 @@ Here you can find the systems already supported and integrated for use with emul
 - lutro
 - kingofair (custom collection)
 - lutro
+- intellivision
 - mame
 - mastersystem
 - megadrive
+- model 1
 - model 2
 - model 3
 - mplayer
-- msx
+- msx2
 - n64
 - naomi
 - nds
@@ -59,8 +63,10 @@ Here you can find the systems already supported and integrated for use with emul
 - odissey2
 - pcengine
 - pcenginecd
+- pc ms dos
 - pcfx
 - pico
+- pocket color
 - ports
 - pref_c64 (custom collection)
 - pref_console (custom collection)
