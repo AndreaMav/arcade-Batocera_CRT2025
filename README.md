@@ -74,6 +74,7 @@ Here you can find the systems already supported and integrated for use with emul
 - model 2
 - model 3
 - mplayer
+- msx1
 - msx2
 - n64
 - naomi
