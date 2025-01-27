@@ -81,6 +81,7 @@ Here you can find the systems already supported and integrated for use with emul
 - naomi2
 - nds
 - neogeo
+- neogeocd
 - nes
 - openbor
 - odissey2
