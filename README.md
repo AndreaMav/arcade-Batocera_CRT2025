@@ -6,11 +6,13 @@ Here you can find the systems already supported and integrated for use with emul
 - 3ds
 - 3do
 - Adam
+- Advision
 - Amiga
 - Amiga CD 32
 - Amstradcpc
 - AppleII
 - AppleIIgs
+- Arcadia
 - Atari 8bit
 - Atari 2600
 - Atari 5200
@@ -126,4 +128,5 @@ Here you can find the systems already supported and integrated for use with emul
 - wiuu
 - x68000
 - xbox
+- xbox360
 - zxspectrum
