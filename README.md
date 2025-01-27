@@ -5,15 +5,18 @@ Here is the list of systems already supported. If you have any requests ask. Tha
 Here you can find the systems already supported and integrated for use with emulationstation:
 - 3ds
 - 3do
+- Adam
 - Amiga
 - Amiga CD 32
 - Amstradcpc
-- Apple2
+- AppleII
+- AppleIIgs
 - Atari 8bit
 - Atari 2600
 - Atari 5200
 - Atari 7800
 - Ataru 8bit
+- Atarist
 - Atari jaguar
 - Atari Lynx
 - Atomiswave
@@ -36,8 +39,11 @@ Here you can find the systems already supported and integrated for use with emul
 - auto-sports
 - auto-trackball
 - auto-wheel
+- bbc
 - c64
 - c20
+- c128
+- cplus4
 - colecovision
 - custom-collections
 - daphne
@@ -81,6 +87,7 @@ Here you can find the systems already supported and integrated for use with emul
 - pcenginecd
 - pc ms dos
 - pcfx
+- pet
 - pico
 - pocket color
 - ports
@@ -90,6 +97,7 @@ Here you can find the systems already supported and integrated for use with emul
 - psx
 - ps2
 - ps3
+- psvita
 - pygame
 - saturn
 - scummvm
