@@ -69,6 +69,7 @@ Here you can find the systems already supported and integrated for use with emul
 - kingofair (custom collection)
 - lutro
 - intellivision
+- macintosh
 - mame
 - mastersystem
 - megadrive
@@ -79,6 +80,7 @@ Here you can find the systems already supported and integrated for use with emul
 - msx1
 - msx2
 - n64
+- namco2x6
 - naomi
 - naomi2
 - nds
@@ -125,6 +127,7 @@ Here you can find the systems already supported and integrated for use with emul
 - windows
 - wonderswan
 - wonderswancolor
+- wii
 - wiuu
 - x68000
 - xbox
